@@ -1,0 +1,2 @@
+Testando escrita de arquivos, com o Python. 
+Parece muito interessante.

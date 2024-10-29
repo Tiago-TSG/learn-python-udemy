@@ -1,0 +1,2 @@
+Testando a escrita em arquivos de forma não Pythônica.
+Parece simples.

@@ -1,0 +1,13 @@
+Banana
+Maça
+Limão
+Pera
+Uva
+Melancia
+Melão
+Abacaxi
+Caju
+Maracujá
+/home/tiago/estudos/python/geek-university/.venv/bin/python /home/tiago/estudos/python/geek-university/file_modes.py
+/home/tiago/estudos/python/geek-university/.venv/bin/python /home/tiago/estudos/python/geek-university/file_string_io.py
+/home/tiago/estudos/python/geek-university/.venv/bin/python /home/tiago/estudos/python/geek-university/file_string_io.py
