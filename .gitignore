@@ -1,0 +1,32 @@
+# Arquivos e diretórios do ambiente virtual
+.venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.swp
+
+# Configurações de IDEs
+.idea/
+.vscode/
+
+# Arquivos de cache
+*.cache
+
+# Diretórios de build
+build/
+dist/
+*.egg-info/
+
+# Arquivos de banco de dados
+*.sqlite3
+
+# Arquivos de configuração específicos do sistema
+*.env
